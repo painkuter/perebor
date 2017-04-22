@@ -1,0 +1,93 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 8.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      2911,         83]
+NotebookOptionsPosition[      2586,         68]
+NotebookOutlinePosition[      2966,         84]
+CellTagsIndexPosition[      2923,         81]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"ListPlot", "[", 
+  RowBox[{
+   RowBox[{"Prime", "[", 
+    RowBox[{"Range", "[", "25", "]"}], "]"}], ",", 
+   RowBox[{"Filling", "\[Rule]", "Axis"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.7018287185670013`*^9, 3.701828741254673*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    GraphicsBox[GraphicsComplexBox[CompressedData["
+1:eJzt000KgkAAhmFp5dKFCxcuTERERPz/WYQSRVAUZRGtg9ZdYY7mkTpCxXwF
+812gTQPy+uigIzLT6324TTRN27yOd+V4dDjp1epUEzVQm677qIWGNC9FHTRH
+XbRGPXRGz+3QQFbM1feIBRzBSziGV3ACr9V1iS2cwTt1neMeLuADXMr2A1zh
+/lH9rvEEN5h/hlv4An//x2f0KnWyQTbJFtkmO2SX7JF9ckAOyRE5JifklJyR
+c3JBLskVuSY35Jb83x/Sv98fT7BzSTE=
+      "], {{{}, {}, {}, {}, 
+        {Hue[0.67, 0.6, 0.6], Opacity[0.2], LineBox[{26, 1}], 
+         LineBox[{27, 2}], LineBox[{28, 3}], LineBox[{29, 4}], 
+         LineBox[{30, 5}], LineBox[{31, 6}], LineBox[{32, 7}], 
+         LineBox[{33, 8}], LineBox[{34, 9}], LineBox[{35, 10}], 
+         LineBox[{36, 11}], LineBox[{37, 12}], LineBox[{38, 13}], 
+         LineBox[{39, 14}], LineBox[{40, 15}], LineBox[{41, 16}], 
+         LineBox[{42, 17}], LineBox[{43, 18}], LineBox[{44, 19}], 
+         LineBox[{45, 20}], LineBox[{46, 21}], LineBox[{47, 22}], 
+         LineBox[{48, 23}], LineBox[{49, 24}], LineBox[{50, 25}]}}, {{}, 
+        {Hue[0.67, 0.6, 0.6], 
+         PointBox[{51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65,
+           66, 67, 68, 69, 70, 71, 72, 73, 74, 75}]}, {}}}],
+     AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+     Axes->True,
+     AxesOrigin->{0, 0},
+     PlotRange->{{0., 25.}, {0., 97.}},
+     PlotRangeClipping->True,
+     PlotRangePadding->{
+       Scaled[0.02], 
+       Scaled[0.02]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"\[Placeholder]", 
+     RowBox[{"\[AliasDelimiter]", 
+      RowBox[{
+       RowBox[{"}", ",", 
+        RowBox[{"{", "\[Placeholder]", "}"}], ",", 
+        RowBox[{"{", "\[Placeholder]", "}"}]}], "}"}]}]}]}]}]}]], "Input",
+ CellChangeTimes->{{3.701828759429313*^9, 3.7018287594413223`*^9}}]
+},
+WindowSize->{707, 734},
+WindowMargins->{{0, Automatic}, {Automatic, -2}},
+Magnification->1.5000001192092896`,
+FrontEndVersion->"8.0 for Microsoft Windows (64-bit) (February 23, 2011)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[557, 20, 259, 6, 43, "Input"],
+Cell[819, 28, 1763, 38, 200, InheritFromParent]
+}
+]
+*)
+
+(* End of internal cache information *)
+
